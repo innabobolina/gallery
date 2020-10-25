@@ -1,0 +1,19 @@
+body {
+    /* background: aqua; */
+    font-family: "Raleway", sans-serif;
+}
+
+img {
+    width: 30%;
+    float: left;
+    margin: calc(10%/6);
+    /* margin: 1.66%; */
+}
+
+h1 {
+    margin-left: calc(10%/6);
+    border-bottom: 2px solid #f1f1f1;
+    padding-bottom: 1em;
+    width: 30%;
+    font-size: 1.8rem;
+}
